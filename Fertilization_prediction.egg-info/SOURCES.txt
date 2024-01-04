@@ -1,0 +1,6 @@
+setup.py
+Fertilization_prediction.egg-info/PKG-INFO
+Fertilization_prediction.egg-info/SOURCES.txt
+Fertilization_prediction.egg-info/dependency_links.txt
+Fertilization_prediction.egg-info/requires.txt
+Fertilization_prediction.egg-info/top_level.txt
